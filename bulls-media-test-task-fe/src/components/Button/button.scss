@@ -1,0 +1,19 @@
+@import "src/styles";
+
+.button {
+  padding: 4px;
+  background-color: $color-green;
+  color: $color-black;
+  width: 100%;
+  border-radius: 50px;
+  font-size: 18px;
+}
+
+.red {
+  padding: 4px;
+  background-color: red;
+  color: $color-black;
+  width: 100%;
+  border-radius: 50px;
+  font-size: 18px;
+}
